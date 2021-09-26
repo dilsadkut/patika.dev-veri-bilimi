@@ -1,2 +1,3 @@
 # patika.dev-veri-bilimi
-Patika.dev veri bilimi patikası eğitimi reposu.
+
+patika.dev-veri-bilimi reposu <a href="https://patika.dev/">patika.dev</a> tarafından verilen veri bilimi patikası eğitiminde yapılan örnek uygulamaları ve projeleri içermektedir.
