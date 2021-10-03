@@ -1,4 +1,6 @@
+
 -- Ödev 1
+
 /*
 Merhabalar,
 
