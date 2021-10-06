@@ -35,6 +35,7 @@ SELECT store_id, COUNT(*)
 FROM customer
 GROUP BY store_id;
 
-SELECT country_id, MAX(city)
+SELECT country_id, COUNT(city)
 FROM city
-GROUP BY country_id;
+GROUP BY country_id
+ORDER BY COUNT(city) DESC;
