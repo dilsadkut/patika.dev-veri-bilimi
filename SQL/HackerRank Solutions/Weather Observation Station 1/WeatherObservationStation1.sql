@@ -5,4 +5,4 @@ Please append a semicolon ";" at the end of the query and enter your query in a 
 */
 
 SELECT CITY, STATE 
-From STATION;
+FROM STATION;
